@@ -1,0 +1,28 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+}
+
+.heading {
+    margin: 4rem 0 2rem 0;
+}
+
+.proj {
+    width: 100%;
+    border: 1px dashed #ccc;
+    border-radius: 10px;
+    margin: 1rem;
+    padding: 0.5rem;
+}
+
+.proj-img {
+    width: 100%;
+    object-fit: cover;
+    margin: 0.5rem;
+}
+
+.proj-desc {
+    font-size: 1rem;
+    text-decoration: none !important;
+    color: #333;
+}
